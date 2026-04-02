@@ -19,7 +19,7 @@
 Estudio ingeniería de software y trabajo en IT al mismo tiempo, así que casi siempre tengo un proyecto a medias en la cabeza. Me gusta construir cosas que resuelvan problemas reales, desde una interfaz que se sienta bien hasta la infraestructura que la mantiene viva.
 
 - ▸ &nbsp;**IT Dev** [Onix Living](https://onixliving.mx/) — sitios y herramientas para real estate de lujo en Cancún & Tulum
-- ▸ &nbsp;**Ingeniería de Software** [Onix Living](https://tecmilenio.mx/)
+- ▸ &nbsp;**Ingeniería de Software** [TecMilenio](https://tecmilenio.mx/)
 - ▸ &nbsp;Construyendo **Pocky**, una app de mascota virtual con mi pareja, y una **Agenda Escolar** conectada a la API de Canvas.
 - ▸ &nbsp;Cuando no hay código de por medio: escribo poesía y prosa, aprendo francés o trasteo con el hardware de alguna laptop.
 
