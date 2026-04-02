@@ -1,66 +1,64 @@
-<h1 align="center">
-  Hola, soy Antony Cortazar &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=header&text=Antony%20Cortazar&fontSize=42&fontColor=ffffff&fontAlignY=52&desc=Full%20Stack%20Developer%20·%20Cancún%2C%20México&descSize=16&descAlignY=75&descColor=cccccc" />
 
-<p align="center">
-  <em>Software Engineering Student & Full Stack Developer · Cancún, México</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/antonycortazar">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:[tu-email]">Email</a> &nbsp;·&nbsp;
-  <a href="https://portfolio.crzr.org">Portfolio</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1200&color=FFFFFF&background=00000060&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+TecMilenio;IT+Developer+%40+Onix+Living;Building+web+apps%2C+infra+%26+local+AI+experiments;Ask+me+about+Next.js%2C+Docker+or+laptop+upgrades+%F0%9F%92%BB" alt="Typing SVG" />
 
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonycortazar)
+[![Portfolio](https://img.shields.io/badge/portfolio.crzr.org-000000?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.crzr.org)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
 
----
+</div>
 
-### Sobre mí
+<br/>
 
-Apasionado por el desarrollo web y la arquitectura de software. Actualmente combino mis estudios universitarios con mi rol en IT, construyendo desde interfaces dinámicas hasta backends robustos y gestionando infraestructura.
+## &nbsp;`>` About me
 
-- 💼 Actualmente trabajando en el departamento de IT en **Onix Living**.
-- 🎓 Estudiante de Ingeniería de Software en la **Universidad Tecmilenio**.
-- 🔭 Trabajando en proyectos divertidos como **Pocky** (una app de mascota virtual) y desarrollando integraciones con la API de Canvas.
-- 🌱 Explorando más sobre **DevOps (Docker, Kubernetes)**, despliegues en AWS Lightsail, y modelos de IA locales.
-- 💬 Pregúntame sobre **Next.js, Spring Boot, Laravel**, o si necesitas recomendaciones para reparar tu laptop o hacerle un upgrade de RAM.
-- ⚡ Fun fact: Cuando no estoy tirando código, disfruto escribir poesía, prosa y aprender francés.
+Estudio ingeniería de software y trabajo en IT al mismo tiempo, así que casi siempre tengo un proyecto a medias en la cabeza. Me gusta construir cosas que resuelvan problemas reales, desde una interfaz que se sienta bien hasta la infraestructura que la mantiene viva.
 
----
+- ▸ &nbsp;**IT Dev** [Onix Living](https://onixliving.mx/) — sitios y herramientas para real estate de lujo en Cancún & Tulum
+- ▸ &nbsp;**Ingeniería de Software** [Onix Living](https://tecmilenio.mx/)
+- ▸ &nbsp;Construyendo **Pocky**, una app de mascota virtual con mi pareja, y una **Agenda Escolar** conectada a la API de Canvas.
+- ▸ &nbsp;Cuando no hay código de por medio: escribo poesía y prosa, aprendo francés o trasteo con el hardware de alguna laptop.
 
-### Stack Tecnológico
+<br/>
 
-**Frontend:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+## &nbsp;`>` Stack
 
-**Backend:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<div align="center">
 
-**Infraestructura & Bases de Datos:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS Lightsail](https://img.shields.io/badge/AWS_Lightsail-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=nextjs,react,astro,vue,ts,tailwind&theme=dark" />
 
-### GitHub Stats
+**Backend & Infra**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Antony-potato&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-potato&layout=compact&theme=default&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,laravel,docker,kubernetes&theme=dark" />
 
----
+**Data & Cloud**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Antony-potato&color=lightgrey&style=flat-square&label=visitas" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgresql,firebase,prisma,aws,cloudflare,git&theme=dark" />
+
+</div>
+
+<br/>
+
+## &nbsp;`>` Contribution trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/antony-potato/antony-potato/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=Antony-potato&color=000000&style=flat-square&label=profile+views)](https://github.com/Antony-potato)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
