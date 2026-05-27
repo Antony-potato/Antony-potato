@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonycortazar)
-[![Portfolio](https://img.shields.io/badge/portfolio.crzr.org-000000?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.crzr.org)
+[![Portfolio](https://img.shields.io/badge/portfolio.crzr.org-000000?style=for-the-badge&logo=safari&logoColor=white)](https://antoniocortazar.dev)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
 
 </div>
