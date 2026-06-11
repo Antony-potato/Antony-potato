@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1200&color=FFFFFF&background=00000060&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+TecMilenio;IT+Developer+%40+Onix+Living;Building+web+apps%2C+infra+%26+local+AI+experiments;Ask+me+about+Next.js%2C+Docker+or+laptop+upgrades+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1200&color=FFFFFF&background=00000060&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+TecMilenio;IT+Developer+%40;Building+web+apps%2C+infra+%26+local+AI+experiments;Ask+me+about+Next.js%2C+Docker+or+laptop+upgrades+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,6 @@
 
 Estudio ingeniería de software y trabajo en IT al mismo tiempo, así que casi siempre tengo un proyecto a medias en la cabeza. Me gusta construir cosas que resuelvan problemas reales, desde una interfaz que se sienta bien hasta la infraestructura que la mantiene viva.
 
-- ▸ &nbsp;**IT Dev** [Onix Living](https://onixliving.mx/) — sitios y herramientas para real estate de lujo en Cancún & Tulum
 - ▸ &nbsp;**Ingeniería de Software** [TecMilenio](https://tecmilenio.mx/)
 - ▸ &nbsp;Construyendo **Pocky**, una app de mascota virtual con mi pareja, y una **Agenda Escolar** conectada a la API de Canvas.
 - ▸ &nbsp;Cuando no hay código de por medio: escribo poesía y prosa, aprendo francés o trasteo con el hardware de alguna laptop.
